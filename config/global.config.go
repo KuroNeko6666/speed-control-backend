@@ -1,7 +1,7 @@
 package config
 
 const (
-	ServerHost = "localhost"
+	ServerHost = "0.0.0.0"
 	ServerPort = ":8000"
 
 	DatabaseHost = "178.128.209.164"
