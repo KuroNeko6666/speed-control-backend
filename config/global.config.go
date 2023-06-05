@@ -4,10 +4,10 @@ const (
 	ServerHost = "localhost"
 	ServerPort = ":8000"
 
-	DatabaseHost = "localhost"
+	DatabaseHost = "178.128.209.164"
 	DatabasePort = ":3306"
-	DatabaseUser = "root"
-	DatabasePass = "mareca"
+	DatabaseUser = "dikdik"
+	DatabasePass = "Kurniawan757!"
 	DatabaseName = "speed_control_database"
 
 	StorageHost = ""
