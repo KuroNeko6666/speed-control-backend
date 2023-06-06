@@ -4,10 +4,10 @@ const (
 	ServerHost = "0.0.0.0"
 	ServerPort = ":8000"
 
-	DatabaseHost = "178.128.209.164"
+	DatabaseHost = "188.166.245.130"
 	DatabasePort = ":3306"
-	DatabaseUser = "dikdik"
-	DatabasePass = "Kurniawan757!"
+	DatabaseUser = "pub"
+	DatabasePass = "Aks3sdb!@#"
 	DatabaseName = "speed_control_database"
 
 	StorageHost = ""
