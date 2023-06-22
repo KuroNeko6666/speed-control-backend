@@ -25,7 +25,6 @@ func ConnectDB() {
 	err = DB.AutoMigrate(
 		&model.User{},
 		&model.Device{},
-		&model.DeviceData{},
 	)
 
 	if err != nil {

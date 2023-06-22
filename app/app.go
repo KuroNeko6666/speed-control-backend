@@ -19,6 +19,7 @@ func RunApp() {
 		AllowCredentials: true,
 	}))
 	database.ConnectDB()
+
 	router.Auth(app)
 	router.Device(app)
 	router.DeviceData(app)
